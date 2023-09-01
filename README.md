@@ -1,6 +1,6 @@
 # Drone Progrmming Project - Emergency Kits Delivering Drone
 
-The Emergency Kit Delivering Dronne can be used to deliver standardized kits of food and medical supplies, in emergencies like natural calamities, man-made disasters or times of war. During such times, until the victims can be rescued, it is essntial to make sure that they receive food and medicines. But there are situations where it is near impossible to reach the disaster affected ares. THe drones can go to places where no vehicle or human can reach. They can endure extreme conditions of temperature and pressure, or high altitudes. They can be sent to extremely dangerous war zones without wrrying about the risk of lives. The drones can also be used to deliver classified messages during war.
+The Emergency Kit Delivering Drone can be used to deliver standardized kits of food and medical supplies, in emergencies like natural calamities, man-made disasters or times of war. During such times, until the victims can be rescued, it is essntial to make sure that they receive food and medicines. But there are situations where it is near impossible to reach the disaster affected ares. THe drones can go to places where no vehicle or human can reach. They can endure extreme conditions of temperature and pressure, or high altitudes. They can be sent to extremely dangerous war zones without wrrying about the risk of lives. The drones can also be used to deliver classified messages during war.
 
 Solution Flowchart
 1. Generation of QR Code - Conversion of commands from string to QR code
